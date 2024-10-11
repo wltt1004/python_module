@@ -15,3 +15,7 @@ https://drive.google.com/file/d/14T20V-l1qPQfpkPTNVNmX4TkGMRC4UOO/view?usp=shari
 
 -Updated Atcoder Full pages, other sites are not available due to the cloudfare. (07:10 PM 10/08/2024)
 https://drive.google.com/file/d/1OrlrA1yqnCv6BuuNfzDLG2Xx9Ujb89Q1/view?usp=sharing
+
+-gpt customized module and guide
+https://drive.google.com/file/d/1MIEkYkgNrV7PGJQMAlWdzNhHEO16u8re/view?usp=sharing
+https://drive.google.com/file/d/18cWfnDEZTq3ldEw2oUkbHhy70zXqwXTk/view?usp=sharing
