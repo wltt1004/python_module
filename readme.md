@@ -23,3 +23,6 @@ https://drive.google.com/file/d/194BSKGVRCIV24dOk0op3TVzioYgW9U_O/view?usp=shari
 -Contests Material
 https://drive.google.com/file/d/1BG5XGNH8miNjEyaHOcClV4vFWLZJiEHE/view?usp=sharing
 https://drive.google.com/file/d/1H1aAfd246_mq5yQuib9g9qIc-_vxWbK1/view?usp=sharing
+
+-Contest material(Downloads.rar)
+In this time, I don't use google driver due to some problems, please download here in Github(Downloads.rar)
