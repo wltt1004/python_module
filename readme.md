@@ -26,3 +26,5 @@ https://drive.google.com/file/d/1H1aAfd246_mq5yQuib9g9qIc-_vxWbK1/view?usp=shari
 
 -Contest material(Downloads.rar)
 In this time, I don't use google driver due to some problems, please download here in Github(Downloads.rar)
+-Okay, I uploaded to google driver, shared.
+https://drive.google.com/file/d/1H5FAZsyHT-ZTDj4Rxz-9VyL8BlvG4jQ5/view?usp=sharing
