@@ -12,8 +12,8 @@
   https://drive.google.com/file/d/1dQGZzuqbqaAf-jd0RWkfD-a7GiaZXw8u/view?usp=sharing
 5. First, I focus on ip address instruction.
   https://drive.google.com/file/d/1XxTMqiOzQvEoYDro7k4fSQM9Mh7PmmFi/view?usp=sharing
-
-
+6. I uploaded the book I promised-blockchain basic, the best understanding for blockchain.
+  https://drive.google.com/file/d/1-r0qtjWEHIwwAZZl_IttSAzFw7NoHl7e/view?usp=sharing
 
 Gmail verification code(After verification request sent): 
 
